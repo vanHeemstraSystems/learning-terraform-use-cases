@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Terraform - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Terraform\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Resources)\n  A[Learner] --&gt; C(UC: Master Data Sources)\n  A[Learner] --&gt; D(UC: Master Locals)\n  A[Learner] --&gt; E(UC: Master Apply)  \n  B --&gt; F{Abstract UC: Master Terraform}\n  C --&gt; F{Abstract UC: Master Terraform}\n  D --&gt; F{Abstract UC: Master Terraform}\n  E --&gt; F{Abstract UC: Master Terraform}"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Terraform - Use Cases"
+  }
+]
